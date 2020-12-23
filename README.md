@@ -6,3 +6,5 @@ dependencies:
 ## min android API level: 26
 ## unity version 2019.3.15
 https://github.com/juicycleff/flutter-unity-view-widget
+
+## APK in build\app\outputs\flutter-apk\
